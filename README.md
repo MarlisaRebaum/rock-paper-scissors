@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors
-> Wrote a program that allows a user to play rock-paper-scissors with the computer.
+> Program that allows a user to play rock-paper-scissors with the computer.
 Utilized the "random" module to make it possible to randomizer the input of the 
 computer.
 
